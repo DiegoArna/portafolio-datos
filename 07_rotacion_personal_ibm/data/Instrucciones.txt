@@ -1,0 +1,6 @@
+# Descarga del dataset
+
+1. Ve a https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+2. Click en Download
+3. Descomprime el ZIP
+4. Coloca `WA_Fn-UseC_-HR-Employee-Attrition.csv` en esta carpeta
