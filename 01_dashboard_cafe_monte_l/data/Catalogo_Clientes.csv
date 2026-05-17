@@ -1,0 +1,73 @@
+﻿ID_Cliente,Cliente,Segmento_Cliente,Canal_Preferente,Ciudad,Region,Ejecutivo,Limite_Credito,Clasificacion
+CL001,Café y Punto Gourmet S.A. de C.V.,Minorista independiente,Autoservicio,Hermosillo,Norte,Mariana Cruz,250000,C
+CL002,Super Abarrotes La Sierra S. de R.L.,Distribuidor regional,E-commerce,Monterrey,Norte,Diana Soto,250000,A
+CL003,Tiendas Urbanas MX MX,Cadena nacional,Autoservicio,Chihuahua,Norte,Ana Ríos,250000,C
+CL004,Comercializadora Tostado Fino Comercial,Cafetería premium,HORECA,Hermosillo,Norte,Pablo Vela,400000,B
+CL005,Bodega San Gabriel,Cadena nacional,Mayoreo,Torreón,Norte,Pablo Vela,600000,C
+CL006,Mercados Unidos del Bajío S.A. de C.V.,Marketplace,Autoservicio,Chihuahua,Norte,Ana Ríos,120000,B
+CL007,Cafe de Barrio Premium S. de R.L.,Cadena nacional,HORECA,Chihuahua,Norte,Ana Ríos,400000,A
+CL008,Distribuidora Cafetalera del Norte MX,Distribuidor regional,Mayoreo,Chihuahua,Norte,Carlos Mejía,250000,B
+CL009,Café Ruta 11 Comercial,Marketplace,E-commerce,Monterrey,Norte,Mariana Cruz,180000,A
+CL010,Corporativo Delta Servicios,Cafetería premium,HORECA,Torreón,Norte,Pablo Vela,600000,A
+CL011,Cafetería Estación Central S.A. de C.V.,Cadena nacional,Autoservicio,Chihuahua,Norte,Ana Ríos,250000,B
+CL012,Tiendas Plaza Viva S. de R.L.,Distribuidor regional,HORECA,Monterrey,Norte,Mariana Cruz,250000,A
+CL013,Mayoreo Sol del Pacífico MX ,Minorista independiente,HORECA,Torreón,Norte,Pablo Vela,400000,A
+CL014,Comercializadora Horizonte Comercial,Distribuidor regional,E-commerce,Saltillo,Norte,Mariana Cruz,250000,B
+CL015,Marketplace Espresso Shop,Marketplace,Mayoreo,Torreón,Norte,Carlos Mejía,180000,B
+CL016,Cadena Selecta Retail S.A. de C.V.,Cadena nacional,HORECA,Monterrey,Norte,Carlos Mejía,180000,C
+CL017,Grupo Abasto Metropolitano S. de R.L.,Marketplace,Autoservicio,Torreón,Norte,Jorge Lara,600000,C
+CL018,Distribuidora Monte Claro MX,Cafetería premium,HORECA,Hermosillo,Norte,Ana Ríos,120000,B
+CL019,Café y Punto Gourmet Comercial,Cafetería premium,E-commerce,Hermosillo,Norte,Diana Soto,120000,A
+CL020,Super Abarrotes La Sierra,Minorista independiente,Autoservicio,Saltillo,Norte,Pablo Vela,250000,C
+CL021,Tiendas Urbanas MX S.A. de C.V.,Marketplace,HORECA,Saltillo,Norte,Pablo Vela,250000,C
+CL022,Comercializadora Tostado Fino S. de R.L.,Marketplace,Autoservicio,Hermosillo,Norte,Diana Soto,180000,B
+CL023,Bodega San Gabriel MX,Cadena nacional,Mayoreo,Hermosillo,Norte,Jorge Lara,120000,A
+CL024,Mercados Unidos del Bajío Comercial,Cafetería premium,Autoservicio,Chihuahua,Norte,Carlos Mejía,600000,C
+CL025,Mercados Unidos del Bajío S.A. de C.V.,Corporativo,E-commerce,Querétaro,Centro,Jorge Lara,600000,B
+CL026,Café Ruta 11 S. de R.L.,Distribuidor regional,Autoservicio,Ciudad de México,Centro,Ana Ríos,600000,B
+CL027,Comercializadora Tostado Fino MX,Distribuidor regional,Autoservicio,Toluca,Centro,Pablo Vela,120000,A
+CL028,Grupo Abasto Metropolitano Comercial,Cafetería premium,Autoservicio,CDMX,Centro,Carlos Mejía,250000,B
+CL029,Tiendas Urbanas MX,Marketplace,Autoservicio,Ciudad de México,Centro,Mariana Cruz,600000,B
+CL030,Bodega San Gabriel S.A. de C.V.,Minorista independiente,Autoservicio,Querétaro,Centro,Ana Ríos,400000,B
+CL031,Tiendas Plaza Viva S. de R.L.,Minorista independiente,HORECA,Querétaro,Centro,Ana Ríos,120000,A
+CL032,Café de Barrio Premium MX,Cadena nacional,Autoservicio,Puebla,Centro,Carlos Mejía,600000,B
+CL033,Mayoreo Sol del Pacífico Comercial,Distribuidor regional,Autoservicio,Querétaro,Centro,Carlos Mejía,120000,B
+CL034,Distribuidora Monte Claro,Cadena nacional,Autoservicio,Toluca,Centro,Mariana Cruz,120000,C
+CL035,Corporativo Delta Servicios S.A. de C.V.,Distribuidor regional,Mayoreo,Ciudad de México,Centro,Jorge Lara,180000,C
+CL036,Marketplace Espresso Shop S. de R.L.,Distribuidor regional,Mayoreo,CDMX,Centro,Jorge Lara,250000,C
+CL037,Cadena Selecta Retail MX,Cafetería premium,Mayoreo,Querétaro,Centro,Pablo Vela,600000,B
+CL038,Comercializadora Horizonte Comercial,Distribuidor regional,Autoservicio,Querétaro,Centro,Carlos Mejía,120000,B
+CL039,Café y Punto Gourmet,Cadena nacional,E-commerce,Toluca,Centro,Ana Ríos,120000,B
+CL040,Super Abarrotes La Sierra S.A. de C.V.,Marketplace,Autoservicio,Toluca,Centro,Mariana Cruz,120000,C
+CL041,Cafetería Estación Central S. de R.L.,Marketplace,Autoservicio,CDMX,Centro,Carlos Mejía,400000,A
+CL042,Distribuidora Cafetalera del Norte MX,Distribuidor regional,Mayoreo,Toluca,Centro,Ana Ríos,600000,A
+CL043,Mercados Unidos del Bajío Comercial,Marketplace,Mayoreo,Toluca,Centro,Diana Soto,180000,B
+CL044,Café Ruta 11 ,Distribuidor regional,Autoservicio,Puebla,Centro,Carlos Mejía,250000,B
+CL045,Comercializadora Tostado Fino S.A. de C.V.,Cadena nacional,Mayoreo,CDMX,Centro,Mariana Cruz,120000,A
+CL046,Grupo Abasto Metropolitano S. de R.L.,Marketplace,Autoservicio,Ciudad de México,Centro,Diana Soto,120000,C
+CL047,Tiendas Urbanas MX MX,Cafetería premium,Autoservicio,Puebla,Centro,Mariana Cruz,250000,B
+CL048,Bodega San Gabriel Comercial,Cadena nacional,E-commerce,Toluca,Centro,Mariana Cruz,250000,C
+CL049,Café y Punto Gourmet S.A. de C.V.,Cadena nacional,E-commerce,Guadalajara,Occidente,Diana Soto,120000,A
+CL050,Cadena Selecta Retail S. de R.L.,Corporativo,HORECA,León,Occidente,Carlos Mejía,400000,B
+CL051,Tiendas Urbanas MX MX,Marketplace,Autoservicio,Morelia,Occidente,Ana Ríos,180000,B
+CL052,Distribuidora Cafetalera del Norte Comercial,Marketplace,Mayoreo,Aguascalientes,Occidente,Jorge Lara,180000,A
+CL053,Bodega San Gabriel,Cadena nacional,HORECA,Aguascalientes,Occidente,Carlos Mejía,180000,B
+CL054,Café de Barrio Premium S.A. de C.V.,Marketplace,HORECA,Aguascalientes,Occidente,Jorge Lara,600000,B
+CL055,Cafe Ruta 11 S. de R.L.,Distribuidor regional,HORECA,León,Occidente,Carlos Mejía,400000,A
+CL056,Mercados Unidos del Bajío MX,Minorista independiente,HORECA,Aguascalientes,Occidente,Pablo Vela,180000,A
+CL057,Tiendas Plaza Viva Comercial,Minorista independiente,HORECA,Guadalajara,Occidente,Jorge Lara,180000,A
+CL058,Marketplace Espresso Shop,Cafetería premium,Mayoreo,Morelia,Occidente,Carlos Mejía,180000,A
+CL059,Comercializadora Tostado Fino S.A. de C.V.,Minorista independiente,Mayoreo,León,Occidente,Ana Ríos,250000,B
+CL060,Comercializadora Horizonte S. de R.L.,Minorista independiente,E-commerce,Puerto Vallarta,Occidente,Mariana Cruz,250000,C
+CL061,Corporativo Delta Servicios MX,Cafetería premium,Autoservicio,Guadalajara,Occidente,Diana Soto,120000,A
+CL062,Distribuidora Monte Claro Comercial,Cafetería premium,E-commerce,Morelia,Occidente,Diana Soto,400000,B
+CL063,Cafetería Estación Central,Cadena nacional,Mayoreo,Puerto Vallarta,Occidente,Mariana Cruz,180000,A
+CL064,Mayoreo Sol del Pacífico S.A. de C.V.,Cadena nacional,Mayoreo,Morelia,Occidente,Mariana Cruz,180000,B
+CL065,Grupo Abasto Metropolitano S. de R.L.,Corporativo,HORECA,Guadalajara,Occidente,Mariana Cruz,250000,B
+CL066,Super Abarrotes La Sierra MX,Corporativo,HORECA,Guadalajara,Occidente,Mariana Cruz,250000,B
+CL067,Café y Punto Gourmet Comercial,Minorista independiente,E-commerce,Aguascalientes,Occidente,Mariana Cruz,180000,A
+CL068,Cadena Selecta Retail,Corporativo,E-commerce,Morelia,Occidente,Carlos Mejía,600000,B
+CL069,Tiendas Urbanas MX S.A. de C.V.,Marketplace,HORECA,Morelia,Occidente,Diana Soto,250000,A
+CL070,Distribuidora Cafetalera del Norte S. de R.L.,Marketplace,E-commerce,Puerto Vallarta,Occidente,Jorge Lara,400000,B
+CL071,Bodega San Gabriel MX,Marketplace,Mayoreo,León,Occidente,Pablo Vela,180000,B
+CL072,Café de Barrio Premium Comercial,Marketplace,E-commerce,Aguascalientes,Occidente,Mariana Cruz,250000,A

@@ -1,0 +1,20 @@
+﻿SKU,Producto,Familia,Presentacion,Segmento_Precio,Precio_Referencia,Costo_Estandar_Unitario,Margen_Objetivo,Capacidad_Embalaje
+SKU001,Café Tradicional Molido 250g,Tradicional,250g,Medio,78,41,0.32,24
+SKU002,Café Tradicional Molido 500g,Tradicional,500g,Medio,148,82,0.32,12
+SKU003,Café Tradicional Grano 1kg,Tradicional,1kg,Medio,276,164,0.32,8
+SKU004,Café Premium Molido 250g,Premium,250g,Alto,118,61,0.38,24
+SKU005,Café Premium Molido 500g,Premium,500g,Alto,224,126,0.38,12
+SKU006,Café Premium Grano 1kg,Premium,1kg,Alto,429,253,0.38,8
+SKU007,Café Orgánico Molido 250g,Orgánico,250g,Alto,132,72,0.35,24
+SKU008,Café Orgánico Molido 500g,Orgánico,500g,Alto,248,145,0.35,12
+SKU009,Café Orgánico Grano 1kg,Orgánico,1kg,Alto,462,282,0.35,8
+SKU010,Descafeinado Molido 250g,Descafeinado,250g,Alto,124,69,0.34,24
+SKU011,Descafeinado Molido 500g,Descafeinado,500g,Alto,236,140,0.34,12
+SKU012,Espresso Grano 1kg,Especialidad,1kg,Premium,468,288,0.39,8
+SKU013,Café de Altura 340g,Especialidad,340g,Premium,176,92,0.4,18
+SKU014,Blend Casa 1kg,Especialidad,1kg,Premium,396,238,0.4,8
+SKU015,Cápsulas Clásicas 10 pzas,Cápsulas,10 caps,Alto,96,44,0.36,20
+SKU016,Cápsulas Intensas 10 pzas,Cápsulas,10 caps,Alto,102,47,0.36,20
+SKU017,Cápsulas Descafeinadas 10 pzas,Cápsulas,10 caps,Alto,108,52,0.36,20
+SKU018,Cold Brew Concentrado 1L,Bebidas listas,1L,Premium,168,89,0.37,12
+SKU019,Drip Bags Selección 8 pzas,Especialidad,8 drip bags,Premium,158,84,0.39,16
