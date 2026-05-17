@@ -13,6 +13,7 @@ Pasante de Lic. en Computación (UAM) | Python · pandas · scikit-learn · Plot
 | 03 | [Segmentación de Clientes Mayoristas](./03_segmentacion_clientes/) | K-Means, Kernel PCA, EDA | UCI ML Repository |
 | 04 | [Serie de Tiempo — Violencia en CDMX](./04_delitos_serie_tiempo_cdmx/) | Series temporales, geopandas, shapefiles | FGJ CDMX (datos abiertos) |
 | 05 | [Ventas de Videojuegos — Clustering Global](./05_ventas_videojuegos/) | K-Means, Kernel PCA, análisis regional | Kaggle |
+| 06 | [Dashboard Power BI — Café Monte L](./06_dashboard_powerbi_cafe_monte_l/) | Power BI, DAX, Power Query | Datos propios |
 
 ---
 
